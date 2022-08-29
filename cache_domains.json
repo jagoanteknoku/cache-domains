@@ -61,6 +61,12 @@
 			"domain_files": ["nintendo.txt"]
 		},
 		{
+			"name": "NH",
+			"description": "CDN for NH",
+			"mixed_content": true,
+			"domain_files": ["nhentai.txt"]
+		},
+		{
 			"name": "origin",
 			"description": "CDN for origin",
 			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
@@ -71,6 +77,11 @@
 			"name": "pathofexile",
 			"description": "CDN for Path Of Exile",
 			"domain_files": ["pathofexile.txt"]
+		},
+		{
+			"name": "pornhub",
+			"description": "Meilleurs films XXX du web",
+			"domain_files": ["pornhub.txt"]
 		},
 		{
 			"name": "renegadex",
