@@ -5,6 +5,11 @@
 			"description": "CDN for NHENTAI.NET",
 			"domain_files": ["nhentai.txt"]
 		},
+				{
+			"name": "MLBB",
+			"description": "CDN for MLBB",
+			"domain_files": ["mlbb.txt"]
+		},
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
