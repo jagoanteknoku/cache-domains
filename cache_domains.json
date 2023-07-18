@@ -6,7 +6,7 @@
 			"domain_files": ["nhentai.txt"]
 		},
 				{
-			"name": "MLBB",
+			"name": "mlbb",
 			"description": "CDN for MLBB",
 			"domain_files": ["mlbb.txt"]
 		},
