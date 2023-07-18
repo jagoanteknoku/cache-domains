@@ -2,6 +2,10 @@ akmcdn.ml.youngjoygame.com
 wscdn.ml.youngjoygame.com
 cycdn.ml.youngjoygame.com
 alxdlml.yuanzhanapp.com
+mntn.jns.swiftserve.co
+tm.ced.jns.swiftserve.com
+wscdn.ml.youngjoygame.com.wsoversea.com
+*.v.akamai.net
 *.yuanzhanapp.com.lb.udnchina.net
 *.swiftserve.com
 *.ml.youngjoygame.com
